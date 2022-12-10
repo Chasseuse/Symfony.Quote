@@ -1,0 +1,3 @@
+[submodule "symfony_docker/app"]
+	path = symfony_docker/app
+	url = https://github.com/dunglas/symfony-docker
